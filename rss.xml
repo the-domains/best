@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[best]]></title>
         <description><![CDATA[best]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/best/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 20:31:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 20:40:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/best/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adventures]]></title>
+            <description><![CDATA[<article><h1>Adventures</h1><img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_two_up_t/01_Ports_121011_0373_RGB_12x8-Edit_ix07vo.jpg"></article>]]></description>
+            <link>https://thegrid.ai/best/adventures/index.html</link>
+            <guid isPermaLink="false">d7e0f8ee-649c-493c-b275-127f77a3bfcb</guid>
+            <pubDate>Fri, 13 Nov 2015 20:39:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We are dedicated to equipping customers with high quality tools and dependable information they can use and pass down. We empower people to get outside, reconnect with their hands and nature, and in doing so, embark on a life of great adventure.]]></title>
             <description><![CDATA[<article><h1>We are dedicated to equipping customers with high quality tools and dependable information they can use and pass down. We empower people to get outside, reconnect with their hands and nature, and in doing so, embark on a life of great adventure.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afefa856-f3d0-4597-bd0f-0c3b45930397.png"></article>]]></description>
-            <link>undefinedwe-are-dedicated-to-equipping-customers-with-high-quality-to/index.html</link>
+            <link>https://thegrid.ai/best/we-are-dedicated-to-equipping-customers-with-high-quality-to/index.html</link>
             <guid isPermaLink="false">01eca17b-0e65-4b3b-b32f-95df3874fe87</guid>
             <pubDate>Fri, 13 Nov 2015 20:31:52 GMT</pubDate>
         </item>
