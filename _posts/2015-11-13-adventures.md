@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-13T20:39:53.957Z'
-dateModified: '2015-11-13T20:38:36.456Z'
+datePublished: '2015-11-13T21:18:16.540Z'
+dateModified: '2015-11-13T21:18:13.997Z'
 author: []
 title: Adventures
+sourcePath: _posts/2015-11-13-adventures.md
+published: true
 authors: []
 publisher:
   name: bestmadeco.com
   domain: www.bestmadeco.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-13-adventures.md
-published: true
 url: adventures/index.html
 _context: 'http://schema.org'
 _type: Article
