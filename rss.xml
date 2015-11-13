@@ -4,8 +4,22 @@
         <description><![CDATA[best]]></description>
         <link>https://thegrid.ai/best/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 20:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 20:46:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/best/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[wallet]]></title>
+            <description><![CDATA[<article><h1>wallet</h1><img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_featured_slide_d/BMC_092115_0425_lv2tfe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/best/wallet/index.html</link>
+            <guid isPermaLink="false">c8231af3-eea0-43f9-b304-b1a6424e6fda</guid>
+            <pubDate>Fri, 13 Nov 2015 20:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compass]]></title>
+            <description><![CDATA[<article><h1>Compass</h1><img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_featured_slide_d/PBS_100515_ML_gkqjbq.jpg"></article>]]></description>
+            <link>https://thegrid.ai/best/compass/index.html</link>
+            <guid isPermaLink="false">2f90b873-31a3-4986-913e-ee384e40fce8</guid>
+            <pubDate>Fri, 13 Nov 2015 20:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Products]]></title>
             <description><![CDATA[<h1>New Products</h1>]]></description>
