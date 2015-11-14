@@ -1,9 +1,7 @@
-favicon: null
 name: best
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.0734767
+typography_spectrum: 0.7173775972332805
 collections:
   - index:
       path: /
@@ -16,20 +14,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.4241585985291749
-  brandStrength: 0.6930493982508779
-  rhythmicContrast: 0.6823907752986997
-  brandColors: []
-  lightness: 0.833864884916693
-typography_spectrum: 0.7173775972332805
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.0734767
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6930493982508779
+  lightness: 0.833864884916693
+  saturation: 0.4241585985291749
+  rhythmicContrast: 0.6823907752986997
+purpose: []
