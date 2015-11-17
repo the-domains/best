@@ -1,7 +1,7 @@
 name: best
 favicon: null
 layout_spectrum: 0.11114
-typography_spectrum: 0.7173775972332805
+typography_spectrum: 1
 collections:
   - index:
       path: /
