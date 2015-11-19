@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-13T20:45:41.893Z'
-dateModified: '2015-11-13T20:27:18.615Z'
+description: at Best Made Co.
+datePublished: '2015-11-19T02:38:29.227Z'
+dateModified: '2015-11-19T02:37:51.616Z'
 author: []
-title: Best Made Company
+title: Best Storage
+sourcePath: _posts/2015-11-13-best-made-company.md
+published: true
 authors: []
 publisher:
   name: d16ied5lkagwqa.cloudfront.net
   domain: d16ied5lkagwqa.cloudfront.net
   url: null
   favicon: null
-sourcePath: _posts/2015-11-13-best-made-company.md
-published: true
 url: best-made-company/index.html
 _context: 'http://schema.org'
 _type: Article
