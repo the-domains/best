@@ -1,70 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[best]]></title>
-        <description><![CDATA[best]]></description>
+        <title><![CDATA[Best]]></title>
+        <description><![CDATA[Best]]></description>
         <link>https://thegrid.ai/best/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 03:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 02:51:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/best/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Best Storage]]></title>
-            <description><![CDATA[<article><h1>Best Storage</h1><p>at Best Made Co.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10fa5ab25e494c6357e89e65bf5a8440a6e5e61b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/best/best-made-company/index.html</link>
-            <guid isPermaLink="false">053b2867-c955-4c5a-84d3-aaf8bfed00bb</guid>
-            <pubDate>Thu, 19 Nov 2015 02:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[_]]></title>
-            <description><![CDATA[<article><h1>_</h1><img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_featured_slide_d/BMC_ECOM_8_13_1521664_bd2i3c.jpg"></article>]]></description>
+            <title><![CDATA[knives]]></title>
+            <description><![CDATA[<article><h1>knives</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdbad9c43c9839241c3423c46be3a78e3582d6c8.jpg"></article>]]></description>
             <link>https://thegrid.ai/best/knives/index.html</link>
             <guid isPermaLink="false">c249cc38-5105-40e2-9f15-7124be92b9c8</guid>
             <pubDate>Thu, 19 Nov 2015 02:36:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[_]]></title>
-            <description><![CDATA[<article><h1>_</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b91dbb1372166ea68af92f630cc19e25e31b4372.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_featured_slide_d/BMC_092115_0425_lv2tfe.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/wallet/index.html</link>
             <guid isPermaLink="false">c8231af3-eea0-43f9-b304-b1a6424e6fda</guid>
             <pubDate>Wed, 09 Dec 2015 03:00:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[_]]></title>
-            <description><![CDATA[<article><h1>_</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e19fe9ea6f6fbcf9aedd0ab0a12f7f1a01a0927f.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_featured_slide_d/PBS_100515_ML_gkqjbq.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/compass/index.html</link>
             <guid isPermaLink="false">2f90b873-31a3-4986-913e-ee384e40fce8</guid>
             <pubDate>Tue, 24 Nov 2015 16:05:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Products]]></title>
-            <description><![CDATA[<h1>New Products</h1>]]></description>
             <link>https://thegrid.ai/best/new-products/index.html</link>
             <guid isPermaLink="false">60f48490-c34c-4a9d-96bd-6bcba65308fb</guid>
             <pubDate>Fri, 13 Nov 2015 20:45:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Axe]]></title>
-            <description><![CDATA[<article><h1>Axe</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8728a9e0d309a88b04b02940850358b12c8293f2.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/c_limit,w_570/Feature_-_Axe_Shop_V2_cqo5mk_copy_feyzqj.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/axe/index.html</link>
             <guid isPermaLink="false">cb3fa91b-02b8-4929-a576-b569622837e0</guid>
             <pubDate>Thu, 19 Nov 2015 02:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our Story]]></title>
-            <description><![CDATA[<article><h1>Our Story</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dee52d17ec8e7fd66ae102340dede57561c75f92.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_two_up_t/_E1M1993_og4v1m.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/our-story/index.html</link>
             <guid isPermaLink="false">22d1dc90-0815-4a3e-9dba-d0646c6d05f0</guid>
             <pubDate>Fri, 13 Nov 2015 21:18:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adventures]]></title>
-            <description><![CDATA[<article><h1>Adventures</h1><img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_two_up_t/01_Ports_121011_0373_RGB_12x8-Edit_ix07vo.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://d16ied5lkagwqa.cloudfront.net/image/upload/t_two_up_t/01_Ports_121011_0373_RGB_12x8-Edit_ix07vo.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/adventures/index.html</link>
             <guid isPermaLink="false">d7e0f8ee-649c-493c-b275-127f77a3bfcb</guid>
             <pubDate>Fri, 13 Nov 2015 21:18:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We are dedicated to equipping customers with high quality tools and dependable information they can use and pass down. We empower people to get outside, reconnect with their hands and nature, and in doing so, embark on a life of great adventure.]]></title>
-            <description><![CDATA[<article><h1>We are dedicated to equipping customers with high quality tools and dependable information they can use and pass down. We empower people to get outside, reconnect with their hands and nature, and in doing so, embark on a life of great adventure.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afefa856-f3d0-4597-bd0f-0c3b45930397.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afefa856-f3d0-4597-bd0f-0c3b45930397.png" alt="" title="">]]></description>
             <link>https://thegrid.ai/best/we-are-dedicated-to-equipping-customers-with-high-quality-to/index.html</link>
             <guid isPermaLink="false">01eca17b-0e65-4b3b-b32f-95df3874fe87</guid>
             <pubDate>Tue, 17 Nov 2015 12:50:40 GMT</pubDate>
